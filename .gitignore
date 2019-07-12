@@ -1,0 +1,15 @@
+#Cherkasov_Dmitriy
+
+# Gradle files
+.gradle/
+
+# User-specific configurations
+*.iml
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.dbThumbs.db
